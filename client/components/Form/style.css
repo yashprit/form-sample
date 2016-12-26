@@ -1,0 +1,17 @@
+.formWrapper {
+	padding: 10px;
+}
+
+.submitted{
+	font-size: 24px;
+	text-align: center;
+	color: rgba(175, 47, 47, .5);
+	padding: 40px;
+}
+
+.progress {
+	font-size: 16px;
+	text-align: center;
+	color: rgba(175, 47, 47, .8);
+	padding: 40px;
+}
